@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <a href="www.linkedin.com/in/ho-dang-quang-b9635b319" target="_blank">
+  <a href="www.linkedin.com/in/ho-dang-quang-b9635b319/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/01.tien" alt="Facebook">
