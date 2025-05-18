@@ -13,7 +13,7 @@
 
 ## 📫 How to reach me:
 
-
+<p align="center">
 <a href="https://www.linkedin.com/in/ho-dang-quang-b9635b319/" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
 </a>
